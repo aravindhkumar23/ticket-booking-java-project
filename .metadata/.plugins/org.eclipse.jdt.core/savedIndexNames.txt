@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+D:\java_pro\ticketbook\.metadata\.plugins\org.eclipse.jdt.core
+667589799.index
+3350691174.index
